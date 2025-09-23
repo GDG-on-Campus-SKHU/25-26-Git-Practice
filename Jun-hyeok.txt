@@ -1,0 +1,6 @@
+Fork를 실습해봅시다.
+1. 현재 remote repository를 fork합니다. 
+2. fork로 생성된 본인의 remote repository를 clone합니다. 
+3. <이름>.txt 파일을 만듭니다.
+4. Feat: <이름>.txt 생성이라는 메시지로 커밋한 후 Push합니다. 
+5. Contribute 버튼을 눌러 PR을 생성합니다. 
